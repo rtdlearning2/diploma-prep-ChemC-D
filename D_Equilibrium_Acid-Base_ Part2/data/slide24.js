@@ -1,0 +1,14 @@
+(function(){var loadHandler=window['sl_{CAE32F65-6B47-4E3F-9632-EFD2E8E14B5D}'];loadHandler&&loadHandler(23, '<div id="spr0_663e696"><div id="spr1_663e696" class="kern slide"><img id="img4_663e696" src="data/img3.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/><div id="spr3_663e696" style="left:1054.18px;top:-2.617px;"><img id="img0_663e696" src="data/img0.png" width="237" height="66.75" alt="Text, logo\
+\
+Description automatically generated" style="left:0.034px;top:-0.05px;"/></div></div><div id="spr2_663e696" class="kern slide"><div id="spr4_663e696" style="left:16px;top:16px;"><img id="img1_663e696" src="data/img32.png" width="915.75" height="552" alt="" style="left:0.012px;"/></div><div id="svg0_663e696" style="left:768px;top:152px;"><svg width="464" height="177" viewBox="0 0 464 177"><path fill="#e5f4d4" d="M0,0 h464 v176.13 h-464 Z"/></svg></div><div id="spr5_663e696" style="left:795.75px;top:164.25px;"><img id="img2_663e696" src="data/img33.png" width="408" height="151.5" alt="Question 100\
+HN3(aq) + H2O(l) ⇌ N3-(aq) + H3O+(aq)\
+ 𝐾 𝑎 = [N3−(aq)][H3O+(aq)] [HN3(aq)] \
+Correct Answer-B\
+"/></div><div id="svg1_663e696" style="left:760px;top:336px;"><svg width="480" height="330" viewBox="0 0 480 330"><path fill="#e5f4d4" d="M0,0 h480 v329.709 h-480 Z"/></svg></div><div id="spr6_663e696" style="left:771.75px;top:348px;"><img id="img3_663e696" src="data/img34.png" width="454.5" height="309" alt="Question 101 Using our Ka  and pH we can calculate [HN3]\
+Remember [N3-]:[H3O+] is 1:1 so\
+ 𝐾 𝑎 = [H3O+(aq)][H3O+(aq)] [HN3(aq)] \
+   [HN3(aq)] 𝑥 𝐾 𝑎   =[H3O+(aq)]\
+So pH = -log(   [HN3(aq)] 𝑥 𝐾 𝑎  )\
+pH = -log(  (0.28)(1.9x10−5 )\
+pH = 2.64\
+"/></div><div id="svg2_663e696" style="left:37.714px;top:568px;"><svg width="815" height="140" viewBox="0 0 815 140"><path fill="#e5f4d4" d="M0,0 h814.286 v139.543 h-814.286 Z"/></svg></div><div id="spr7_663e696" style="left:37.714px;top:568px;"><div style="width:0px;"><span id="txt0_663e696" data-width="141.386719" style="left:335.81px;top:3.527px;">Question 102</span></div><div style="width:0px;"><span id="txt1_663e696" class="relpos" style="left:271.389px;top:36.36px;">K</span> <span id="txt2_663e696" class="relpos" style="left:271.383px;top:50.993px;">a</span> <span id="txt3_663e696" class="relpos" data-width="243.820312" style="left:271.376px;top:36.36px;"> is much smaller than 1</span></div><div style="width:0px;"><span id="txt4_663e696" data-width="339.199219" style="left:233.81px;top:69.193px;">As a result reactants are favored</span></div><div style="width:0px;"><span id="txt5_663e696" class="relpos" data-width="222.011719" style="left:55.143px;top:102.027px;">Answer B is correct </span> <span id="txt6_663e696" class="relpos" data-width="466.089844" style="left:55.136px;top:102.027px;">because reactants are greater than products</span></div></div></div></div>', '{"s":[]}');})();
