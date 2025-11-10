@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color:#ffffff;">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
+  <meta name="format-detection" content="telephone=no"/>
+  <meta name="mobile-web-app-capable" content="yes"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <meta name="msapplication-tap-highlight" content="no"/>
+  <title>Course</title>
+  
+  <style>
+    body { background-color:#ffffff; }
+    #playerView { position:absolute; -webkit-tap-highlight-color:rgba(0,0,0,0); -webkit-user-select:none; -moz-user-select:none; -webkit-touch-callout:none; -webkit-user-drag:none; }
+    #playerView * { position:absolute; }
+    #preloader {
+      width: 50px; height: 50px; position: absolute; inset: 0; margin: auto;
+      border-radius: 10px; background-color: rgba(0, 0, 0, 0.5);
+    }
+    #preloader::after {
+      content: ''; position: absolute; inset: 0; margin:auto; width:100%; height:100%;
+      background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAKQ2lDQ1BJQ0MgcHJvZmlsZQAA...) no-repeat center / cover;
+      animation: preloader_spin 1s infinite linear;
+    }
+    @keyframes preloader_spin { 0% {transform: rotate(0deg);} 100% {transform: rotate(360deg);} }
+  </style>
+</head>
+<body>
+  <div id="preloader"></div>
+  
+  <script src="data/player.js?1762740719"></script>
+  <div id="content"></div>
+  <div id="spr0_000000" style="display:none;"></div>
+  <noscript>Enable JavaScript to view this course.</noscript>
+</body>
+</html>
